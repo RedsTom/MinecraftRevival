@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:block/oak_trapdoor_bottom",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/vertical_slab"
+        }
+    ]
+}
